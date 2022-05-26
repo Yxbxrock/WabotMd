@@ -1,10 +1,10 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Indosat [085713964963]
-│ • Gopay [085713964963]
+│ • Telkomsel [082365089294]
+│ • Dana [082365089294]
 ╰────
 ╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/6281390658325
+│ > Ingin donasi? Wa.me/6282365089294
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
